@@ -14,7 +14,7 @@ class Program5
         
         System.out.println("Enter the name of the candidate : ");
         String Name = sobj.nextLine(); //reads the entire line including spaces
-        //next() → reads one word (stops at whitespace)
+        //next() - reads one word (stops at whitespace)
         
         if(Age >= 18)
         {
