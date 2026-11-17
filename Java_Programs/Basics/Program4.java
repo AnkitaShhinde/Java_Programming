@@ -12,7 +12,7 @@ class Program4
 
         System.out.println("Please enter what you want to perform!");
 
-        System.out.println("1. Addition/ 2. Substraction/ 3. Multiplication/ 4. Division");
+        System.out.println("1. Addition / 2. Substraction / 3. Multiplication / 4. Division");
 
         double choice = sobj.nextInt();
 
